@@ -1,0 +1,8 @@
+{
+  "name": "Supermarché ERP & POS",
+  "description": "Système intégré de gestion de supermarché en temps réel : Caisse POS, Contrôle Financier & Comptabilité, Ravitaillement & Stock, Messagerie interne et Super Administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
